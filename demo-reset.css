@@ -1,0 +1,19 @@
+.demo_preview * {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 10px;
+	font: inherit;
+	vertical-align: baseline;
+    line-height: initial;
+}
+
+.demo_preview {
+
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    height: 100%;
+}

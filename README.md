@@ -1,7 +1,3 @@
-# Headline
+# Shopify Dawn Components
 
-> An awesome project.
-
-```html preview
-<button class="share-button__button">Hello, World.</p>
-```
+> A breakdown of the Shopify 2.0 Dawn theme
