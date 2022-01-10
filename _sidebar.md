@@ -3,8 +3,8 @@
 * [Home](/)
 * [Guide](guide.md)
 * Components
-* * [Buttons](components/buttons.md)
 * * [Text](components/text.md)
+* * [Buttons](components/buttons.md)
 * Layout
 * * [Grid](layout/grid.md)
 * Helpers
